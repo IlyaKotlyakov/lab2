@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ikotl\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ikotl\\.nuget\\packages"
+    ]
+  }
+}

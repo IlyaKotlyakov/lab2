@@ -1,0 +1,7 @@
+5
+free, Chrome, Google
+commercial, MathCad, PTC, 12.05.2020, 14, 100, 365
+commercial, Photoshop, Adobe, 07.05.2020, 7, 500, 365
+shareware, NOD32, eset, 01.05.2020, 30, 25
+free, WhatsApp, Facebook
+shareware, CCleaner, Piriform, 22.04.2020, 21, 15

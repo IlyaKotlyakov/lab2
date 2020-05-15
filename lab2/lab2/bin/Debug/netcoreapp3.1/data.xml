@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<ArrayOfPO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PO xsi:type="Free">
+    <name>Chrome</name>
+    <company>Google</company>
+    <dateOfInstall>2000-01-01T00:00:00</dateOfInstall>
+    <demo_preiod>0</demo_preiod>
+    <cost>0</cost>
+  </PO>
+  <PO xsi:type="Commercial">
+    <name>MathCad</name>
+    <company>PTC</company>
+    <dateOfInstall>2020-05-12T00:00:00</dateOfInstall>
+    <demo_preiod>0</demo_preiod>
+    <cost>100</cost>
+  </PO>
+  <PO xsi:type="Commercial">
+    <name>Photoshop</name>
+    <company>Adobe</company>
+    <dateOfInstall>2020-05-07T00:00:00</dateOfInstall>
+    <demo_preiod>0</demo_preiod>
+    <cost>500</cost>
+  </PO>
+  <PO xsi:type="Shareware">
+    <name>NOD32</name>
+    <company>eset</company>
+    <dateOfInstall>2020-05-01T00:00:00</dateOfInstall>
+    <demo_preiod>30</demo_preiod>
+    <cost>25</cost>
+  </PO>
+  <PO xsi:type="Free">
+    <name>WhatsApp</name>
+    <company>Facebook</company>
+    <dateOfInstall>2000-01-01T00:00:00</dateOfInstall>
+    <demo_preiod>0</demo_preiod>
+    <cost>0</cost>
+  </PO>
+</ArrayOfPO>
